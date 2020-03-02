@@ -10,3 +10,4 @@ A dice game where the goal is to win 5 rounds in order to win the match against 
 - 8.) Getting a point does not take into consideration of how high the pair is only the point. Ex: 1-1-6 is higher than 6-6-1
 - 9.) Getting any roll besides the above mentioned will result in a meaningless roll. The player or CPU than must roll again
 - 10.) Draws do not count as either a win or loss
+- Note: Need to make improvements and adjustments to the code. Will implement more functions to reduce redundancy and improve efficiancy
